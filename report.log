@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.5)  17 JAN 2024 17:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.5)  23 JAN 2024 20:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -112,20 +112,20 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 ) (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count270
@@ -180,91 +180,91 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 26.
+(Font)              <12> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
+(Font)              <6> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 36.
 <Si.png, id=1, 578.16pt x 469.755pt>
 File: Si.png Graphic file (type png)
 <use Si.png>
-Package pdftex.def Info: Si.png  used on input line 59.
+Package pdftex.def Info: Si.png  used on input line 57.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <Ge.png, id=3, 578.16pt x 469.755pt>
 File: Ge.png Graphic file (type png)
 <use Ge.png>
-Package pdftex.def Info: Ge.png  used on input line 64.
+Package pdftex.def Info: Ge.png  used on input line 62.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <Sn.png, id=4, 578.16pt x 469.755pt>
 File: Sn.png Graphic file (type png)
 <use Sn.png>
-Package pdftex.def Info: Sn.png  used on input line 71.
+Package pdftex.def Info: Sn.png  used on input line 69.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <Gap.png, id=5, 578.16pt x 469.755pt>
 File: Gap.png Graphic file (type png)
 <use Gap.png>
-Package pdftex.def Info: Gap.png  used on input line 76.
+Package pdftex.def Info: Gap.png  used on input line 74.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <GaAs.png, id=6, 578.16pt x 469.755pt>
 File: GaAs.png Graphic file (type png)
 <use GaAs.png>
-Package pdftex.def Info: GaAs.png  used on input line 82.
+Package pdftex.def Info: GaAs.png  used on input line 80.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <AlSb.png, id=7, 578.16pt x 469.755pt>
 File: AlSb.png Graphic file (type png)
 <use AlSb.png>
-Package pdftex.def Info: AlSb.png  used on input line 90.
+Package pdftex.def Info: AlSb.png  used on input line 88.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <InP.png, id=8, 578.16pt x 469.755pt>
 File: InP.png Graphic file (type png)
 <use InP.png>
-Package pdftex.def Info: InP.png  used on input line 96.
+Package pdftex.def Info: InP.png  used on input line 94.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <GaSb.png, id=9, 578.16pt x 469.755pt>
 File: GaSb.png Graphic file (type png)
 <use GaSb.png>
-Package pdftex.def Info: GaSb.png  used on input line 103.
+Package pdftex.def Info: GaSb.png  used on input line 101.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <InAs.png, id=10, 578.16pt x 469.755pt>
 File: InAs.png Graphic file (type png)
 <use InAs.png>
-Package pdftex.def Info: InAs.png  used on input line 111.
+Package pdftex.def Info: InAs.png  used on input line 109.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <InSb.png, id=11, 578.16pt x 469.755pt>
 File: InSb.png Graphic file (type png)
 <use InSb.png>
-Package pdftex.def Info: InSb.png  used on input line 117.
+Package pdftex.def Info: InSb.png  used on input line 115.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <ZnS.png, id=12, 578.16pt x 469.755pt>
 File: ZnS.png Graphic file (type png)
 <use ZnS.png>
-Package pdftex.def Info: ZnS.png  used on input line 123.
+Package pdftex.def Info: ZnS.png  used on input line 121.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <ZnSe.png, id=13, 578.16pt x 469.755pt>
 File: ZnSe.png Graphic file (type png)
 <use ZnSe.png>
-Package pdftex.def Info: ZnSe.png  used on input line 131.
+Package pdftex.def Info: ZnSe.png  used on input line 129.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <ZnTe.png, id=14, 578.16pt x 469.755pt>
 File: ZnTe.png Graphic file (type png)
 <use ZnTe.png>
-Package pdftex.def Info: ZnTe.png  used on input line 137.
+Package pdftex.def Info: ZnTe.png  used on input line 135.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 <CdTe.png, id=15, 578.16pt x 469.755pt>
 File: CdTe.png Graphic file (type png)
 <use CdTe.png>
-Package pdftex.def Info: CdTe.png  used on input line 143.
+Package pdftex.def Info: CdTe.png  used on input line 141.
 (pdftex.def)             Requested size: 253.77782pt x 206.19109pt.
 [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./Si.png> <./Ge.png>] [2 <./Sn.png> <./Gap.png> <./GaAs.png> <./AlSb.png> <./InP.png> <./GaSb.png>] [3 <./InAs.png> <./InSb.png> <./ZnS.png> <./ZnSe.png> <./ZnTe.png> <./CdTe.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 174.
+(Font)              <9> on input line 172.
  [4
 
 ] (./report.aux) ) 
@@ -277,7 +277,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,878b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report.pdf (4 pages, 3602853 bytes).
+Output written on report.pdf (4 pages, 3602781 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

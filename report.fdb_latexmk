@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1705509979 "/Users/hoangnguyen/SSP_final_HW/report.tex" "report.pdf" "report" 1705509989 0
-  "/Users/hoangnguyen/SSP_final_HW/report.tex" 1705509978 10417 eef403ccc9dc882b10e83ba9cb1d4899 ""
+["pdflatex"] 1706037292 "/Users/hoangnguyen/SSP_final_HW/report.tex" "report.pdf" "report" 1706037302 0
+  "/Users/hoangnguyen/SSP_final_HW/report.tex" 1706037292 10364 a4e5591afac8c8a7ab41923f5be09b86 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -74,13 +74,13 @@
   "InAs.png" 1705145648 333984 a1ff77f2e29373d82d80933b2967887d ""
   "InP.png" 1705145538 319932 f8b304cbfec47020cd9d94d54f77b5a6 ""
   "InSb.png" 1705145791 326806 2e5b92500f4a7a1b5bc6e4673b009c57 ""
-  "Si.png" 1705113031 347479 5669bc504823eccb942e6f8d9f5f0bf2 ""
+  "Si.png" 1706036663 347479 5669bc504823eccb942e6f8d9f5f0bf2 ""
   "Sn.png" 1705112976 356378 dcb90b84e426977ca9445174a2e9aa3d ""
   "ZnS.png" 1705145956 308005 d7312b41782edc699d335bdb9c8cbc80 ""
   "ZnSe.png" 1705146117 311332 01dd2025e2564093686db4d80096e3fa ""
   "ZnTe.png" 1705146255 337028 1beb1d53fe8babbbbb8c3a1b7c42b87b ""
-  "report.aux" 1705509989 2389 2f0c3dc12833bd46043f9e5daba73e21 "pdflatex"
-  "report.tex" 1705509978 10417 eef403ccc9dc882b10e83ba9cb1d4899 ""
+  "report.aux" 1706037301 2389 2f0c3dc12833bd46043f9e5daba73e21 "pdflatex"
+  "report.tex" 1706037292 10364 a4e5591afac8c8a7ab41923f5be09b86 ""
   (generated)
   "report.aux"
   "report.log"
